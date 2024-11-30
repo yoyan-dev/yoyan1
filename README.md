@@ -18,7 +18,7 @@
 <a href="https://twitter.com/yoyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yoyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoyan" height="30" width="40" /></a>
 <a href="https://fb.com/rhowland.loveyhoww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoyan" height="30" width="40" /></a>
-<a href="https://instagram.com/yoyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyan" height="30" width="40" /></a>
+<a href="https://instagram.com/is_yoyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoyan" height="30" width="40" /></a>
 <a href="https://discord.gg/yoyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Skydriven#0795" height="30" width="40" /></a>
 </p>
 
