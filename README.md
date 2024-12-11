@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Students Monitoring System**
 
-- 🌱 I’m currently learning **Nuxt & Vue**
+- 🌱 I’m currently learning **React & Next**
 
 - 📫 How to reach me **yoyan947@gmail.com**
 
